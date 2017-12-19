@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>It's Rustam Ali's Personal website.</p>
+<h1>Rustam Ali</h1>
+<p>Software Engineer</p>
 </body>
 </html>
